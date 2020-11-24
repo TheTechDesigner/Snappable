@@ -1,16 +1,14 @@
-# snappable_example
+# Snappable
+## Snappable Useful Widget in Flutter App
 
-A new Flutter project.
+[![YouTube](https://img.youtube.com/vi/iwBOnnJk2Pk/0.jpg)](https://youtu.be/iwBOnnJk2Pk "Snappable Useful Widget in Flutter App")
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Check out [blog post](https://fidev.io/thanos) describing the package on [Fidev](https://fidev.io/).
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+| Example 1 | Example 2 |
+|:----|:----|
+| [![pub.dev](https://user-images.githubusercontent.com/16286046/62490326-52626380-b7c9-11e9-9ed3-5545e3175cb6.gif)](https://pub.dev/packages/snappable "Thanos effect library in Flutter") | [![pub.dev](https://user-images.githubusercontent.com/16286046/62490340-5bebcb80-b7c9-11e9-8bcf-e94c18f25f1b.gif)](https://pub.dev/packages/snappable "Thanos effect library in Flutter") |
